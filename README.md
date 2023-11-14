@@ -6,7 +6,7 @@
 ### A continuación vamos a [apuntes montaje](montaje/apuntes.md)
 ### A continuación vamos a [apuntes ofimatica](ofimatica/apuntes.md)
 #### ↑↑↑↑↑
-> - [Proyecto de App para parking] (https://sites.google.com/view/urbanparquing)
-> - [La openAI que utilizo] (https://chat.openai.com/)
+> - Proyecto de App para parking (https://sites.google.com/view/urbanparquing)
+> - La openAI que utilizo (https://chat.openai.com/)
 ##### **Acabo de empezar**
 ###### *Hacer codigo mola*
