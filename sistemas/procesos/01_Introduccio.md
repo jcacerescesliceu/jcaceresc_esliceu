@@ -1,5 +1,5 @@
-[components](/sistemas/procesos/02_components)
+[Components](02_components)
 
-[estats_de_transicio](/sistemas/procesos/03_estas_trancisió)
+[Estats_de_trancisió](03_estas_trancisió)
 
-[volver al Readme](/README.md)
+[Volver al Readme](/README.md)
